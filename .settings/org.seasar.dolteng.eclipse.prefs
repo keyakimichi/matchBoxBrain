@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/matchBoxBrain/src/main/resources
+DefaultRootPackage=match
+DefaultSrcPath=/matchBoxBrain/src/main/java
+ServletPath=matchBoxBrain
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
