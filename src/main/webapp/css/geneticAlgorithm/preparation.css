@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+input[id*="hidden_answer_text_"] {
+  visibility: hidden;
+}
